@@ -9,8 +9,8 @@ import sidebarTemp from '../../template/sidebar.html';
 import navTemp from '../../template/sidebarNav.html';
 import '../../style/menu_bubble.css';
 import main4 from './lib/main4';
-import defaultAvatarImg from './../../images/webp/default_avatar.webp';
-import meTopBg from './../../images/webp/me_top_bg.webp';
+import defaultAvatarImg from './../../images/webp/default_avatar.jpg';
+import meTopBg from './../../images/webp/me_top_bg.jpg';
 
 export default function main(_) {
 

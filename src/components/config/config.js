@@ -13,5 +13,5 @@ export default function main() {
     const userConfig = typeof window.cnblogsConfig === 'undefined' ? {} : window.cnblogsConfig;
 
     // 合并配置
-    return $.extend( true, defaultConfig, userConfig);
+    return $.extend(true, defaultConfig, userConfig);
 }
